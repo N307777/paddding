@@ -1,0 +1,20 @@
+h1{
+    color: rgb(18, 239, 11);
+    font-family: 'Courier New', Courier, monospace;
+}
+div.ex1{
+    text-align: center;
+    width: 200px;
+    background-color: rgb(6, 242, 38);
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+div.ex2{
+    text-align: center;
+    width: 200px;
+    padding: 25px;
+    background-color: rgb(13, 198, 235);
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
